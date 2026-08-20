@@ -543,12 +543,6 @@ PRODUCT_PACKAGES += \
     libqcc_file_agent \
     libqcci_legacy \
     libqcmaputils \
-    libqcodec2_base \
-    libqcodec2_basecodec \
-    libqcodec2_core \
-    libqcodec2_platform \
-    libqcodec2_utils \
-    libqcodec2_v4l2codec \
     libqcrilFramework \
     libqcrildatactl \
     libqdi \
@@ -726,6 +720,12 @@ PRODUCT_PACKAGES += \
     libdrc \
     libdsd2pcm \
     libfastcrc \
+    libqcodec2_base \
+    libqcodec2_basecodec \
+    libqcodec2_core \
+    libqcodec2_platform \
+    libqcodec2_utils \
+    libqcodec2_v4l2codec \
     libstreamparser \
     libsurround_3mic_proc \
     libvideoutils \
